@@ -47,7 +47,7 @@ Learning-Style-Classifier/
 ---
 
 ## 📊 Dataset
-
+* Dataset sourced from kaggle
 * Contains user responses along with corresponding learning styles
 * Preprocessed and encoded before training
 * Used for training and evaluating multiple models
