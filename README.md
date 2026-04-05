@@ -47,7 +47,8 @@ Learning-Style-Classifier/
 ---
 
 ## 📊 Dataset
-* Dataset sourced from kaggle
+
+* Dataset sourced from **Kaggle (public dataset)**
 * Contains user responses along with corresponding learning styles
 * Preprocessed and encoded before training
 * Used for training and evaluating multiple models
@@ -121,4 +122,4 @@ http://127.0.0.1:5000/
 
 ## 👩‍💻 Developed By
 
-Shreejaa S M
+**Shreejaa S M**
